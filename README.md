@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an assistant professor of Statistics at the [University of St Thomas](www.stthomas.edu). My website is [amelia.mn](http://amelia.mn). 
+I am an assistant professor of Statistics at the [University of St Thomas](http://www.stthomas.edu). My website is [amelia.mn](http://amelia.mn). 
